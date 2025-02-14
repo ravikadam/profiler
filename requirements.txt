@@ -1,0 +1,9 @@
+streamlit
+instructor
+openai
+beautifulsoup4
+requests
+python-dotenv
+pydantic
+tavily-python
+validators
